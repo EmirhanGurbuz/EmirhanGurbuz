@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emirhan Gürbüz</h1>
+<h3 align="center">I am currently a first year student in the Department of Computer Programming.</h3>
+
 - 📫 How to reach me **emirhanthegurbuz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
