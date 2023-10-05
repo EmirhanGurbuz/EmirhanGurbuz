@@ -1,4 +1,4 @@
-I'm Emirhan Gürbüz, I'm something of a developer myself.
+I'm Emirhan Gürbüz, I don't feel anything
 <br>
 
 
