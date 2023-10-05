@@ -1,8 +1,8 @@
 I'm Emirhan Gürbüz, I'm something of a developer myself.
 <br>
-<h3 align="center">I am currently a first year student in the Department of Computer Programming.</h3>
+<br">I am currently a first year student in the Department of Computer Programming.</br>
 
-- 📫 How to reach me **emirhanthegurbuz@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
