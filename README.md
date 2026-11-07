@@ -15,6 +15,9 @@ I'm Emirhan Gürbüz, I don't feel anything
  - Projects I've Been In 
 http://evahirdavat.com/
 https://arizatespitcihazi.com/
+https://nitrobilisim.com.tr/
+https://www.sefasalgam.net/
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emirhangurbuz&show_icons=true&locale=en&layout=compact" alt="emirhangurbuz" /></p>
 
 
