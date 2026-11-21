@@ -23,7 +23,8 @@ object Emirhan {
     val roles    = listOf("Game Developer", "Android Developer", "Web Developer")
     val languages = listOf("C", "C++", "C#", "Kotlin", "Lua", "JavaScript", "PHP", "Python")
     val engines  = listOf("Unreal Engine", "Unity", "FiveM")
-    val experience = "Head Developer @ CurseV, Curse Next GenV, CurseZ, Curse Collage (FiveM)"
+    val frameworks = listOf("QBCore")
+    val experience = "Head Developer @ CurseV, Curse Next GenV, CurseZ, Curse Collage (FiveM / QBCore)"
     val currentlyLearning = "Always something new 🚀"
     val openTo = listOf("Freelance", "Collaboration", "Cool projects")
 }
@@ -38,7 +39,7 @@ object Emirhan {
  
 <b>Game Development</b><br/>
 <img src="https://skillicons.dev/icons?i=unreal,unity,blender,cmake,vs,dotnet&perline=6" /><br/>
-<img src="https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/GTA_V_Modding-0f0c29?style=for-the-badge&logoColor=white" /><br/><br/>
+<img src="https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/QBCore-1E90FF?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/GTA_V_Modding-0f0c29?style=for-the-badge&logoColor=white" /><br/><br/>
  
 <b>Mobile</b><br/>
 <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,gradle,firebase,idea&perline=5" /><br/><br/>
@@ -62,7 +63,7 @@ object Emirhan {
         <li>Unreal Engine (C++ &amp; Blueprints)</li>
         <li>Unity (C#) prototyping</li>
         <li>Lua scripting for game logic</li>
-        <li>FiveM server &amp; resource development (Lua)</li>
+        <li>FiveM server &amp; resource development (Lua, QBCore)</li>
         <li>UI / HUD, AI behavior, systems design</li>
       </ul>
     </td>
@@ -70,6 +71,7 @@ object Emirhan {
       <h3>🧰 Toolbox</h3>
       <ul>
         <li><b>Engines:</b> Unreal Engine, Unity, FiveM</li>
+        <li><b>Frameworks:</b> QBCore</li>
         <li><b>Languages:</b> C++, C#, Lua</li>
         <li><b>3D:</b> Blender</li>
         <li><b>IDEs:</b> Visual Studio, VS Code</li>
@@ -82,42 +84,47 @@ object Emirhan {
 <br/>
 <h2>💼 &nbsp;Experience</h2>
  
-<p><b>Head Developer</b> on multiple FiveM (GTA V) roleplay &amp; game servers:</p>
+<p><b>Head Developer</b> on multiple FiveM (GTA V) servers, all built on the <b>QBCore</b> framework:</p>
 <table align="center">
   <tr>
     <th></th>
     <th align="left">Server</th>
     <th align="left">Role</th>
     <th align="left">Platform</th>
+    <th align="left">Framework</th>
   </tr>
   <tr>
     <td align="center">🎮</td>
     <td><b>CurseV</b></td>
     <td>Head Developer</td>
     <td>FiveM</td>
+    <td>QBCore</td>
   </tr>
   <tr>
     <td align="center">🚀</td>
     <td><b>Curse Next GenV</b></td>
     <td>Head Developer</td>
     <td>FiveM</td>
+    <td>QBCore</td>
   </tr>
   <tr>
     <td align="center">🧟</td>
     <td><b>CurseZ</b></td>
     <td>Head Developer</td>
     <td>FiveM</td>
+    <td>QBCore</td>
   </tr>
   <tr>
     <td align="center">🎓</td>
     <td><b>Curse Collage</b></td>
     <td>Head Developer</td>
     <td>FiveM</td>
+    <td>QBCore</td>
   </tr>
 </table>
 <ul>
   <li>Led the development team and managed server architecture and releases</li>
-  <li>Built and maintained custom scripts and resources in <b>Lua</b></li>
+  <li>Built and maintained custom scripts and resources in <b>Lua</b> on <b>QBCore</b></li>
   <li>Handled optimization, bug fixing and performance tuning</li>
   <li>Designed gameplay systems, UI and database structure</li>
 </ul>
@@ -165,6 +172,7 @@ object Emirhan {
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=emirhangurbuz&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="trophies" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=emirhangurbuz&theme=react-dark&hide_border=true&bg_color=0f0c29&color=a78bfa&line=7c3aed&point=ffffff" alt="activity graph" />
+ 
 </div>
 </details>
 <br/>
