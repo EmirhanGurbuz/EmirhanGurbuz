@@ -20,9 +20,10 @@
 object Emirhan {
     val name     = "Emirhan Gürbüz"
     val location = "Türkiye 🇹🇷"
-    val roles    = listOf("Lead Game Developer", "Android Developer", "Web Developer")
+    val roles    = listOf("Game Developer", "Android Developer", "Web Developer")
     val languages = listOf("C", "C++", "C#", "Kotlin", "Lua", "JavaScript", "PHP", "Python")
-    val engines  = listOf("Unreal Engine", "Unity")
+    val engines  = listOf("Unreal Engine", "Unity", "FiveM")
+    val experience = "Head Developer @ CurseV, Curse Next GenV, CurseZ, Curse Collage (FiveM)"
     val currentlyLearning = "Always something new 🚀"
     val openTo = listOf("Freelance", "Collaboration", "Cool projects")
 }
@@ -36,7 +37,8 @@ object Emirhan {
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,kotlin,lua,java,js,php,py,html,css&perline=11" /><br/><br/>
  
 <b>Game Development</b><br/>
-<img src="https://skillicons.dev/icons?i=unreal,unity,blender,cmake,vs,dotnet&perline=6" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=unreal,unity,blender,cmake,vs,dotnet&perline=6" /><br/>
+<img src="https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/GTA_V_Modding-0f0c29?style=for-the-badge&logoColor=white" /><br/><br/>
  
 <b>Mobile</b><br/>
 <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,gradle,firebase,idea&perline=5" /><br/><br/>
@@ -60,13 +62,14 @@ object Emirhan {
         <li>Unreal Engine (C++ &amp; Blueprints)</li>
         <li>Unity (C#) prototyping</li>
         <li>Lua scripting for game logic</li>
+        <li>FiveM server &amp; resource development (Lua)</li>
         <li>UI / HUD, AI behavior, systems design</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3>🧰 Toolbox</h3>
       <ul>
-        <li><b>Engines:</b> Unreal Engine, Unity</li>
+        <li><b>Engines:</b> Unreal Engine, Unity, FiveM</li>
         <li><b>Languages:</b> C++, C#, Lua</li>
         <li><b>3D:</b> Blender</li>
         <li><b>IDEs:</b> Visual Studio, VS Code</li>
@@ -76,6 +79,48 @@ object Emirhan {
   </tr>
 </table>
 <p><i>💡 Add your game projects here: <code>Game Name – short description</code></i></p>
+<br/>
+<h2>💼 &nbsp;Experience</h2>
+ 
+<p><b>Head Developer</b> on multiple FiveM (GTA V) roleplay &amp; game servers:</p>
+<table align="center">
+  <tr>
+    <th></th>
+    <th align="left">Server</th>
+    <th align="left">Role</th>
+    <th align="left">Platform</th>
+  </tr>
+  <tr>
+    <td align="center">🎮</td>
+    <td><b>CurseV</b></td>
+    <td>Head Developer</td>
+    <td>FiveM</td>
+  </tr>
+  <tr>
+    <td align="center">🚀</td>
+    <td><b>Curse Next GenV</b></td>
+    <td>Head Developer</td>
+    <td>FiveM</td>
+  </tr>
+  <tr>
+    <td align="center">🧟</td>
+    <td><b>CurseZ</b></td>
+    <td>Head Developer</td>
+    <td>FiveM</td>
+  </tr>
+  <tr>
+    <td align="center">🎓</td>
+    <td><b>Curse Collage</b></td>
+    <td>Head Developer</td>
+    <td>FiveM</td>
+  </tr>
+</table>
+<ul>
+  <li>Led the development team and managed server architecture and releases</li>
+  <li>Built and maintained custom scripts and resources in <b>Lua</b></li>
+  <li>Handled optimization, bug fixing and performance tuning</li>
+  <li>Designed gameplay systems, UI and database structure</li>
+</ul>
 <br/>
 <h2>🚀 &nbsp;Featured Projects</h2>
  
