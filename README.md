@@ -20,7 +20,7 @@
 object Emirhan {
     val name     = "Emirhan Gürbüz"
     val location = "Türkiye 🇹🇷"
-    val roles    = listOf("Game Developer", "Android Developer", "Web Developer")
+    val roles    = listOf("Lead Game Developer", "Android Developer", "Web Developer")
     val languages = listOf("C", "C++", "C#", "Kotlin", "Lua", "JavaScript", "PHP", "Python")
     val engines  = listOf("Unreal Engine", "Unity")
     val currentlyLearning = "Always something new 🚀"
