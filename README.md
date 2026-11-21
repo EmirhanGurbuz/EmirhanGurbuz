@@ -15,6 +15,7 @@
 ## 👨‍💻 About Me
  
 - 🔭 I build websites and web applications for businesses and individuals
+- 📱 Developing Android apps with Kotlin and scripting with Lua
 - 🌱 Always learning new technologies and improving my craft
 - 💼 Worked on several live, real-world projects (see below)
 - 📫 Reach me at **emirhanthegurbuz@gmail.com**
@@ -30,6 +31,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
  
 **Frameworks & Libraries**
  
@@ -38,6 +42,18 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+ 
+**Mobile & Game Development (Kotlin / Lua)**
+ 
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Roblox](https://img.shields.io/badge/Roblox_Studio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)
+![Love2D](https://img.shields.io/badge/L%C3%96VE2D-E74C8C?style=for-the-badge&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
  
 **Databases & Tools**
  
@@ -87,7 +103,8 @@
 ## 🎯 Currently
  
 - 🔨 Working on new web projects
-- 📚 Learning modern frameworks and best practices
+- 📚 Learning modern frameworks, Kotlin (Jetpack Compose) and Lua scripting
+- 📱 Building Android apps and game scripts
 - 🤝 Open to freelance work and collaboration
 ---
  
