@@ -14,7 +14,7 @@
  
 </div>
 <br/>
-## 👋 &nbsp;About Me
+<h2>👋 &nbsp;About Me</h2>
  
 ```kotlin
 object Emirhan {
@@ -29,64 +29,85 @@ object Emirhan {
 ```
  
 <br/>
-## 🛠️ &nbsp;Tech Stack
+<h2>🛠️ &nbsp;Tech Stack</h2>
  
 <div align="center">
-**Languages**<br/>
+<b>Languages</b><br/>
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,kotlin,lua,java,js,php,py,html,css&perline=11" /><br/><br/>
  
-**Game Development**<br/>
+<b>Game Development</b><br/>
 <img src="https://skillicons.dev/icons?i=unreal,unity,blender,cmake,vs,dotnet&perline=6" /><br/><br/>
  
-**Mobile**<br/>
+<b>Mobile</b><br/>
 <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,gradle,firebase,idea&perline=5" /><br/><br/>
  
-**Web**<br/>
+<b>Web</b><br/>
 <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,bootstrap,wordpress,mysql&perline=6" /><br/><br/>
  
-**Tools**<br/>
+<b>Tools</b><br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,neovim,linux&perline=6" />
  
 </div>
 <br/>
-## 🎮 &nbsp;Game Development
+<h2>🎮 &nbsp;Game Development</h2>
  
 <table>
-<tr>
-<td width="50%" valign="top">
-### 🕹️ What I Do
-- Gameplay programming & mechanics
-- Unreal Engine (C++ & Blueprints)
-- Unity (C#) prototyping
-- Lua scripting for game logic
-- UI / HUD, AI behavior, systems design
-</td>
-<td width="50%" valign="top">
-### 🧰 Toolbox
-- **Engines:** Unreal Engine, Unity
-- **Languages:** C++, C#, Lua
-- **3D:** Blender
-- **IDEs:** Visual Studio, VS Code
-- **VCS:** Git & GitHub
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🕹️ What I Do</h3>
+      <ul>
+        <li>Gameplay programming &amp; mechanics</li>
+        <li>Unreal Engine (C++ &amp; Blueprints)</li>
+        <li>Unity (C#) prototyping</li>
+        <li>Lua scripting for game logic</li>
+        <li>UI / HUD, AI behavior, systems design</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧰 Toolbox</h3>
+      <ul>
+        <li><b>Engines:</b> Unreal Engine, Unity</li>
+        <li><b>Languages:</b> C++, C#, Lua</li>
+        <li><b>3D:</b> Blender</li>
+        <li><b>IDEs:</b> Visual Studio, VS Code</li>
+        <li><b>VCS:</b> Git &amp; GitHub</li>
+      </ul>
+    </td>
+  </tr>
 </table>
-> 💡 _Add your game projects here:_ `[Game Name](link) – short description`
- 
+<p><i>💡 Add your game projects here: <code>Game Name – short description</code></i></p>
 <br/>
-## 🚀 &nbsp;Featured Projects
+<h2>🚀 &nbsp;Featured Projects</h2>
  
-<div align="center">
-| | Project | Description |
-|:-:|:--|:--|
-| 🌐 | [**Evahirdavat**](http://evahirdavat.com/) | Live website project |
-| 🔧 | [**Arıza Tespit Cihazı**](https://arizatespitcihazi.com/) | Live website project |
-| 💻 | [**Nitro Bilişim**](https://nitrobilisim.com.tr/) | Live website project |
-| 🏢 | [**Sefa Salgam**](https://www.sefasalgam.net/) | Live website project |
- 
-</div>
+<table align="center">
+  <tr>
+    <th></th>
+    <th align="left">Project</th>
+    <th align="left">Description</th>
+  </tr>
+  <tr>
+    <td align="center">🌐</td>
+    <td><a href="http://evahirdavat.com/"><b>Evahirdavat</b></a></td>
+    <td>Live website project</td>
+  </tr>
+  <tr>
+    <td align="center">🔧</td>
+    <td><a href="https://arizatespitcihazi.com/"><b>Arıza Tespit Cihazı</b></a></td>
+    <td>Live website project</td>
+  </tr>
+  <tr>
+    <td align="center">💻</td>
+    <td><a href="https://nitrobilisim.com.tr/"><b>Nitro Bilişim</b></a></td>
+    <td>Live website project</td>
+  </tr>
+  <tr>
+    <td align="center">🏢</td>
+    <td><a href="https://www.sefasalgam.net/"><b>Sefa Salgam</b></a></td>
+    <td>Live website project</td>
+  </tr>
+</table>
 <br/>
-## 📊 &nbsp;GitHub Stats
+<h2>📊 &nbsp;GitHub Stats</h2>
  
 <div align="center">
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=emirhangurbuz&show_icons=true&theme=radical&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=7c3aed&text_color=e5e7eb" alt="stats" />
@@ -102,11 +123,11 @@ object Emirhan {
 </div>
 </details>
 <br/>
-## 📬 &nbsp;Let's Connect
+<h2>📬 &nbsp;Let's Connect</h2>
  
 <div align="center">
 Have a project, a game idea, or just want to say hi?<br/>
-**📧 emirhanthegurbuz@gmail.com**
+<b>📧 emirhanthegurbuz@gmail.com</b>
  
 <br/>
 <a href="https://twitter.com/emirgurbuz0"><img src="https://img.shields.io/badge/@emirgurbuz0-Twitter-0f0c29?style=for-the-badge&logo=x&logoColor=white" /></a>
